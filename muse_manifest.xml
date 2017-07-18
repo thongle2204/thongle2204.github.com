@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="thongle.com" resolutions="1x" timestamp="1500230828250">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="thongle.com" resolutions="1x" timestamp="1500397216904">
   <folder name="fonts">
     <file name="fontawesome-webfont1.woff" crc="462672289"/>
     <file name="fontawesome-webfont1.eot" crc="415170694"/>
@@ -6,7 +6,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3968630514" ref="index"/>
+    <file name="index.css" crc="4209740481" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -44,7 +44,6 @@
     <file name="u1431-4.png" crc="4124875615" ref="index"/>
     <file name="u1456-4.png" crc="349461386" ref="index"/>
     <file name="img_0424.jpg" crc="124974466" ref="index"/>
-    <file name="u1474-6.png" crc="4024205020" ref="index"/>
     <file name="nexet-u1480-fr.png" crc="274228304" ref="index"/>
     <file name="back.png" crc="131582522" ref="index"/>
     <file name="s4.jpg" crc="175236206" ref="index"/>
@@ -119,6 +118,7 @@
     <file name="u603-r.png" crc="4266432128" ref="index"/>
     <file name="u575.png" crc="4035589715" ref="index"/>
     <file name="u575-r.png" crc="3768759308" ref="index"/>
+    <file name="u1474-4.png" crc="484594139" ref="index"/>
   </folder>
-  <file name="index.html" crc="4150720035" seo="true" mt="1500230817502" redirect="true"/>
+  <file name="index.html" crc="64157055" seo="true" mt="1500397121702" redirect="true"/>
 </manifest>
